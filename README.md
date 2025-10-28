@@ -114,6 +114,8 @@ We test the function with:
 
 We use a solid line for the actual function and a red dotted line for the approximation.
 
+![Plot of the actual function vs. the approximation](taylor_approx.png)
+
 ### Task 3: Modifying the Function to Measure Error and Elapsed Time for Different Degrees
 
 We add the following inputs:
@@ -124,7 +126,7 @@ We add the following inputs:
 
 For example, using 50 as initial, 100 as final, and 10 as the step, the function computes absolute error and elapsed time for degrees 50, 60, 70, …, 100.
 
-![Results of the function for initial degree = 50, final degree = 100, degree step = 10](Screenshot%20(67).png)
+![Results of the function for initial degree = 50, final degree = 100, degree step = 10](taylor_table.png)
 
 Higher polynomial degrees increase accuracy but also computation time. A degree of 100 is more accurate but takes roughly twice as long as a degree of 50.  
 
