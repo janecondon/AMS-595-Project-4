@@ -1,5 +1,3 @@
-# AMS-595-Project-4
-
 # AMS 595 Project 4: Mandelbrot Fractal, Markov Chains, and Taylor Approximation
 
 ## Introduction
